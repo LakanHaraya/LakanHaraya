@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LakanHaraya
-- 👀 I’m interested in reading science books, and translating it into Filipino (Tagalog).
-- 🌱 I’m currently learning  basic computer programming and electronic concepts
-- 💞️ I’m looking to collaborate on translating files
+- 👀 I’m interested in learning computer programming.
+- 🌱 I’m currently working on my simple airship drone
+- 💞️ I’m looking someone who can mentor me 
 - 📫 How to reach me ... 
 
 <!---
